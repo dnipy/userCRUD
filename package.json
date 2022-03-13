@@ -1,0 +1,17 @@
+{
+  "name": "realTime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "dev" : "nodemon inedx.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.1.0"
+  }
+}
